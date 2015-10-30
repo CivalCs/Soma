@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soma</string>
+    <string name="action_settings">Settings</string>
+    <!--My Strings-->
+    <string name="primerio_numero">Primeiro número:</string>
+    <string name="segundo_numero">Segundo número:</string>
+    <string name="botao_soma">Somar</string>
+    <string name="total">A soma dos numeros é:</string>
+</resources>
